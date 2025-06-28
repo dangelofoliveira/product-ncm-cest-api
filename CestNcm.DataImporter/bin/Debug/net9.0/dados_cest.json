@@ -1,0 +1,3088 @@
+{
+    "CERVEJAS_CHOPES_REFRIGERANTES_AGUAS_E_OUTRAS_BEBIDAS": [
+        {
+            "cest": "03.001.00",
+            "ncm": "2201.10.00",
+            "Descricao": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa de vidro, retornável ou não, com capacidade de até 500 ml",
+            "mva_original": 250,
+            "mva_substituto": 170
+        },
+        {
+            "cest": "03.002.00",
+            "ncm": "2201.10.00",
+            "Descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem com capacidade igual ou superior a 5.000 ml",
+            "mva_original": 100,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.003.00",
+            "ncm": "2201.10.00",
+            "Descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro, não retornável, com capacidade de até 300 ml",
+            "mva_original": 140,
+            "mva_substituto": 100
+        },
+        {
+            "cest": "03.004.00",
+            "ncm": "2201.10.00",
+            "Descricao": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa plástica de 1.500 ml",
+            "mva_original": 120,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.005.00",
+            "ncm": "2201.10.00",
+            "Descricao": "Água mineral, gasosa ou não, ou potável, naturais, em copos plásticos e embalagem plástica com capacidade de até 500 ml",
+            "mva_original": 140,
+            "mva_substituto": 100
+        },
+        {
+            "cest": "03.006.00",
+            "ncm": "2201.10.00",
+            "Descricao": "Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.007.00",
+            "ncm": "2202.10.00",
+            "Descricao": "Águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.008.00",
+            "ncm": "2202.99.00",
+            "Descricao": "Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas ou aromatizadas artificialmente",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.010.00",
+            "ncm": "2202",
+            "Descricao": "Refrigerante em garrafa com capacidade igual ou superior a 600 ml",
+            "mva_original": 140,
+            "mva_substituto": 40
+        },
+        {
+            "cest": "03.011.00",
+            "ncm": "2202",
+            "Descricao": "Demais refrigerantes",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.012.00",
+            "ncm": "2106.90.10",
+            "Descricao": "Xarope ou extrato concentrado destinados ao preparo de refrigerante em máquina 'pré-mix' ou 'post-mix'",
+            "mva_original": 140,
+            "mva_substituto": 100
+        },
+        {
+            "cest": "03.013.00",
+            "ncm": "2106.90 / 2202.99.00",
+            "Descricao": "Bebidas energéticas em embalagem com capacidade inferior a 600ml",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.014.00",
+            "ncm": "2106.90 / 2202.99.00",
+            "Descricao": "Bebidas energéticas em embalagem com capacidade igual ou superior a 600ml",
+            "mva_original": 140,
+            "mva_substituto": 40
+        },
+        {
+            "cest": "03.015.00",
+            "ncm": "2106.90 / 2202.99.00",
+            "Descricao": "Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade inferior a 600ml",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.016.00",
+            "ncm": "2106.90 / 2202.99.00",
+            "Descricao": "Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade igual ou superior a 600ml",
+            "mva_original": 140,
+            "mva_substituto": 40
+        },
+        {
+            "cest": "03.021.00",
+            "ncm": "2203.00.00",
+            "Descricao": "Cerveja",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.022.00",
+            "ncm": "2202.91.00",
+            "Descricao": "Cerveja sem álcool",
+            "mva_original": 140,
+            "mva_substituto": 70
+        },
+        {
+            "cest": "03.023.00",
+            "ncm": "2203.00.00",
+            "Descricao": "Chope",
+            "mva_original": 140,
+            "mva_substituto": 115
+        }
+    ],
+    "CIGARROS_E_PRODUTOS_DERIVADOS_DO_FUMO": [
+        {
+            "cest": "04.001.00",
+            "ncm": "2402",
+            "Descricao": "Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos",
+            "mva_original": 50
+        },
+        {
+            "cest": "04.002.00",
+            "ncm": "2403.1",
+            "Descricao": "Tabaco para fumar, mesmo contendo sucedâneos de tabaco em qualquer proporção",
+            "mva_original": 50
+        }
+    ],
+    "CIMENTOS": [
+        {
+            "cest": "05.001.00",
+            "ncm": "2523",
+            "Descricao": "Cimento",
+            "mva_original": 20,
+            "mva_ajustada_12": 32,
+            "mva_ajustada_4": 44
+        }
+    ],
+    "ENERGIA_ELETRICA": [
+        {
+            "cest": "07.001.00",
+            "ncm": "2716.00.00",
+            "Descricao": "Energia elétrica",
+            "base_calculo": "Valor da operação de que decorrer a entrada da mercadoria"
+        }
+    ],
+    "APARELHOS_DE_BARBEAR": [
+        {
+            "cest": "20.064.00",
+            "ncm": "8212.10.20 / 8212.20.10",
+            "Descricao": "Aparelhos e lâminas de barbear",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        }
+    ],
+    "LAMPADAS_REATORES_STARTER": [
+        {
+            "cest": "09.001.00",
+            "ncm": "8539",
+            "Descricao": "Lâmpadas elétricas",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "09.002.00",
+            "ncm": "8540",
+            "Descricao": "Lâmpadas eletrônicas",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "09.003.00",
+            "ncm": "8504.10.00",
+            "Descricao": "Reatores para lâmpadas ou tubos de descargas",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "09.004.00",
+            "ncm": "8536.50",
+            "Descricao": "\"Starter\"",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "21.109.00",
+            "ncm": "8540",
+            "Descricao": "Tubos e válvulas, eletrônicos, de cátodo quente, cátodo frio ou fotocátodo",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PECAS_PARTES_E_ACESSORIOS_PARA_VEICULOS_AUTOMOTORES": [
+        {
+            "cest": "01.001.00",
+            "ncm": "3815.12.10 / 3815.12.90",
+            "Descricao": "Catalisadores em colmeia cerâmica ou metálica para conversão catalítica de gases de escape de veículos e outros catalisadores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.002.00",
+            "ncm": "3917",
+            "Descricao": "Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.003.00",
+            "ncm": "3918.10.00",
+            "Descricao": "Protetores de caçamba",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.004.00",
+            "ncm": "3923.30.00",
+            "Descricao": "Reservatórios de óleo",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.005.00",
+            "ncm": "3926.30.00",
+            "Descricao": "Frisos, decalques, molduras e acabamentos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.006.00",
+            "ncm": "4010.3 / 5910.00.00",
+            "Descricao": "Correias de transmissão de borracha vulcanizada ou de matérias têxteis, mesmo impregnadas, revestidas ou recobertas de plástico, estratificadas com plástico ou reforçadas com metal ou outras matérias",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.007.00",
+            "ncm": "4016.93.00 / 4823.90.9",
+            "Descricao": "Juntas, gaxetas e outros elementos com função semelhante de vedação",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.008.00",
+            "ncm": "4016.10.10",
+            "Descricao": "Partes de veículos automóveis, tratores e máquinas autopropulsadas",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.009.00",
+            "ncm": "4016.99.90 / 5705.00.00",
+            "Descricao": "Tapetes, revestimentos, batentes, buchas e coxins",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.010.00",
+            "ncm": "5903.90.00",
+            "Descricao": "Tecidos impregnados, revestidos, recobertos ou estratificados com plástico",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.011.00",
+            "ncm": "5909.00.00",
+            "Descricao": "Mangueiras e tubos semelhantes, de matérias têxteis, mesmo com reforço ou acessórios de outras matérias",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.012.00",
+            "ncm": "6306.1",
+            "Descricao": "Encerados e toldos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.013.00",
+            "ncm": "6506.10.00",
+            "Descricao": "Capacetes e artefatos de uso semelhante, de proteção, para uso em motocicletas, incluídos ciclomotores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.014.00",
+            "ncm": "6813",
+            "Descricao": "Guarnições de fricção (placas, tiras, discos etc.) para freios, embreagens ou outros mecanismos à base de amianto ou outras substâncias minerais ou celulose",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.015.00",
+            "ncm": "7007.11.00 / 7007.21.00",
+            "Descricao": "Vidros de dimensões e formatos que permitam aplicação automotiva",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.016.00",
+            "ncm": "7009.10.00",
+            "Descricao": "Espelhos retrovisores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.017.00",
+            "ncm": "7014.00.00",
+            "Descricao": "Lentes de faróis, lanternas e outros utensílios",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.018.00",
+            "ncm": "7311.00.00",
+            "Descricao": "Cilindro de aço para GNV (gás natural veicular)",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.019.00",
+            "ncm": "7311.00.00",
+            "Descricao": "Recipientes para gases comprimidos ou liquefeitos, de ferro fundido, ferro ou aço, exceto GNV",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.020.00",
+            "ncm": "7320",
+            "Descricao": "Molas e folhas de molas, de ferro ou aço",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.021.00",
+            "ncm": "7325",
+            "Descricao": "Obras moldadas, de ferro fundido, ferro ou aço, exceto as do código 7325.91.00",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.022.00",
+            "ncm": "7806.00",
+            "Descricao": "Peso de chumbo para balanceamento de roda",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.023.00",
+            "ncm": "8007.00.90",
+            "Descricao": "Peso para balanceamento de roda e outros utensílios de estanho",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.024.00",
+            "ncm": "8301.20 / 8301.60",
+            "Descricao": "Fechaduras e partes de fechaduras",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.025.00",
+            "ncm": "8301.70",
+            "Descricao": "Chaves apresentadas isoladamente",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.026.00",
+            "ncm": "8302.10.00 / 8302.30.00",
+            "Descricao": "Dobradiças, guarnições, ferragens e artigos semelhantes de metais comuns",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.027.00",
+            "ncm": "8310.00",
+            "Descricao": "Triângulo de segurança",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.028.00",
+            "ncm": "8407.3",
+            "Descricao": "Motores de pistão alternativo dos tipos utilizados para propulsão de veículos do Capítulo 87",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.029.00",
+            "ncm": "8408.20",
+            "Descricao": "Motores dos tipos utilizados para propulsão de veículos automotores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.030.00",
+            "ncm": "8409.9",
+            "Descricao": "Partes reconhecíveis como exclusiva ou principalmente destinadas aos motores das posições 8407 ou 8408",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.031.00",
+            "ncm": "8412.2",
+            "Descricao": "Motores hidráulicos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.032.00",
+            "ncm": "8413.30",
+            "Descricao": "Bombas para combustíveis, lubrificantes ou líquidos de arrefecimento, próprias para motores de ignição por centelha ou por compressão",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.033.00",
+            "ncm": "8414.10.00",
+            "Descricao": "Bombas de vácuo",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.034.00",
+            "ncm": "8414.80.1 / 8414.80.2",
+            "Descricao": "Compressores e turbocompressores de ar",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.035.00",
+            "ncm": "8413.91.90 / 8414.90.10 / 8414.90.3 / 8414.90.39",
+            "Descricao": "Partes das bombas, compressores e turbocompressores dos CEST 01.032.00, 01.033.00 e 01.034.00",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.036.00",
+            "ncm": "8415.20",
+            "Descricao": "Máquinas e aparelhos de ar condicionado",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.037.00",
+            "ncm": "8421.23.00",
+            "Descricao": "Aparelhos para filtrar óleos minerais nos motores de ignição por centelha ou por compressão",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.038.00",
+            "ncm": "8421.29.90",
+            "Descricao": "Filtros a vácuo",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.039.00",
+            "ncm": "8421.9",
+            "Descricao": "Partes dos aparelhos para filtrar ou depurar líquidos ou gases",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.040.00",
+            "ncm": "8424.10.00",
+            "Descricao": "Extintores, mesmo carregados",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.041.00",
+            "ncm": "8421.31.00",
+            "Descricao": "Filtros de entrada de ar para motores de ignição por centelha ou por compressão",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.042.00",
+            "ncm": "8421.39.20",
+            "Descricao": "Depuradores por conversão catalítica de gases de escape",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.043.00",
+            "ncm": "8425.42.00",
+            "Descricao": "Macacos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.044.00",
+            "ncm": "8431.10.10",
+            "Descricao": "Partes para macacos do CEST 01.043.00",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.045.00",
+            "ncm": "8431.49.2",
+            "Descricao": "Partes reconhecíveis como exclusiva ou principalmente destinadas às máquinas agrícolas ou rodoviárias",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.046.00",
+            "ncm": "8481.10.00",
+            "Descricao": "Válvulas redutoras de pressão",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.047.00",
+            "ncm": "8481.2",
+            "Descricao": "Válvulas para transmissão óleo-hidráulicas ou pneumáticas",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.048.00",
+            "ncm": "8481.80.92",
+            "Descricao": "Válvulas solenóides",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.049.00",
+            "ncm": "8482",
+            "Descricao": "Rolamentos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.050.00",
+            "ncm": "8483",
+            "Descricao": "Árvores de transmissão (incluídas árvores de cames e virabrequins), mancais, engrenagens, caixas de transmissão, redutores, embreagens, volantes e dispositivos de acoplamento",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.051.00",
+            "ncm": "8484",
+            "Descricao": "Juntas metaloplásticas; jogos ou sortidos de juntas de composições diferentes; juntas de vedação mecânicas (selos mecânicos)",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.052.00",
+            "ncm": "8505.20",
+            "Descricao": "Acoplamentos, embreagens, variadores de velocidade e freios eletromagnéticos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.053.00",
+            "ncm": "8507.10",
+            "Descricao": "Acumuladores elétricos de chumbo do tipo utilizado para arranque dos motores de pistão, exceto os classificados no CEST 01.053.01",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.054.00",
+            "ncm": "8511",
+            "Descricao": "Aparelhos e dispositivos elétricos de ignição ou arranque, geradores e conjuntores-disjuntores para motores de ignição",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.055.00",
+            "ncm": "8512.20 / 8512.40 / 8512.90.00",
+            "Descricao": "Aparelhos de iluminação ou sinalização, limpadores de para-brisas, degeladores e desembaçadores elétricos e suas partes",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.056.00",
+            "ncm": "8517.12.13",
+            "Descricao": "Telefones móveis do tipo dos utilizados em veículos automóveis",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.057.00",
+            "ncm": "8518",
+            "Descricao": "Alto-falantes, amplificadores elétricos de audiofrequência e partes",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.058.00",
+            "ncm": "8518.50.00",
+            "Descricao": "Aparelhos elétricos de amplificação de som para veículos automotores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.059.00",
+            "ncm": "8519.81",
+            "Descricao": "Aparelhos de reprodução de som",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.060.00",
+            "ncm": "8525.50.1 / 8525.60.10",
+            "Descricao": "Aparelhos transmissores de radiotelefonia ou radiotelegrafia (rádio receptor/transmissor)",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.061.00",
+            "ncm": "8527.21.00",
+            "Descricao": "Aparelhos receptores de radiodifusão para veículos automóveis, combinados com gravação ou reprodução de som",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.062.00",
+            "ncm": "8527.29.00",
+            "Descricao": "Outros aparelhos receptores de radiodifusão para veículos automotores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.063.00",
+            "ncm": "8529.10.90",
+            "Descricao": "Antenas",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.064.00",
+            "ncm": "8534.00",
+            "Descricao": "Circuitos impressos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.065.00",
+            "ncm": "8535.30 / 8536.50",
+            "Descricao": "Interruptores, seccionadores e comutadores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.066.00",
+            "ncm": "8536.10.00",
+            "Descricao": "Fusíveis e corta-circuitos de fusíveis",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.067.00",
+            "ncm": "8536.20.00",
+            "Descricao": "Disjuntores",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.068.00",
+            "ncm": "8536.4",
+            "Descricao": "Relés",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.069.00",
+            "ncm": "8538",
+            "Descricao": "Partes reconhecíveis como exclusivas ou principalmente destinadas aos aparelhos dos CEST 01.065.00, 01.066.00, 01.067.00 e 01.068.00",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.070.00",
+            "ncm": "8539.10",
+            "Descricao": "Faróis e projetores, em unidades seladas",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.071.00",
+            "ncm": "8539.2",
+            "Descricao": "Lâmpadas e tubos de incandescência, exceto de raios ultravioleta ou infravermelhos",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.072.00",
+            "ncm": "8544.20.00",
+            "Descricao": "Cabos coaxiais e outros condutores elétricos coaxiais",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.073.00",
+            "ncm": "8544.30.00",
+            "Descricao": "Jogos de fios para velas de ignição e outros jogos de fios",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.074.00",
+            "ncm": "8707",
+            "Descricao": "Carroçarias para veículos automóveis das posições 8701 a 8705, incluídas as cabinas",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.075.00",
+            "ncm": "8708",
+            "Descricao": "Partes e acessórios dos veículos automóveis das posições 8701 a 8705",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.076.00",
+            "ncm": "8714.1",
+            "Descricao": "Partes e acessórios de motocicletas (incluídos os ciclomotores)",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.077.00",
+            "ncm": "8716.90.90",
+            "Descricao": "Engates para reboques e semi-reboques",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.078.00",
+            "ncm": "9026.10",
+            "Descricao": "Medidores de nível; medidores de vazão",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.079.00",
+            "ncm": "9026.20",
+            "Descricao": "Aparelhos para medida ou controle da pressão",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        },
+        {
+            "cest": "01.080.00",
+            "ncm": "9029",
+            "Descricao": "Contadores, indicadores de velocidade, tacômetros, suas partes e acessórios",
+            "mva_original": 71.78,
+            "mva_ajustada_12": 88.96,
+            "mva_ajustada_4": 106.14
+        }
+    ],
+    "ACUMULADORES_ELETRICOS": [
+        {
+            "cest": "21.039.00",
+            "ncm": "8507.80.00",
+            "Descricao": "Outros acumuladores",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PNEUMATICOS_CAMARAS_AR_PROTETORES": [
+        {
+            "cest": "16.001.00",
+            "ncm": "4011.10.00",
+            "Descricao": "Pneus novos, dos tipos utilizados em automóveis de passageiros (incluídos os veículos de uso misto - camionetas e os automóveis de corrida)",
+            "mva_original": 42,
+            "mva_ajustada_12": 56.2,
+            "mva_ajustada_4": 70.4
+        },
+        {
+            "cest": "16.002.00",
+            "ncm": "4011",
+            "Descricao": "Pneus novos, dos tipos utilizados em caminhões (inclusive para os fora-de-estrada), ônibus, aviões, máquinas de terraplenagem, de construção e conservação de estradas, máquinas e tratores agrícolas, pá-carregadeira",
+            "mva_original": 32,
+            "mva_ajustada_12": 45.2,
+            "mva_ajustada_4": 58.4
+        },
+        {
+            "cest": "16.003.00",
+            "ncm": "4011.40.00",
+            "Descricao": "Pneus novos para motocicletas",
+            "mva_original": 60,
+            "mva_ajustada_12": 76,
+            "mva_ajustada_4": 92
+        },
+        {
+            "cest": "16.004.00",
+            "ncm": "4011",
+            "Descricao": "Outros tipos de pneus novos, exceto os itens classificados no CEST 16.005.00",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "16.007.00",
+            "ncm": "4012.90",
+            "Descricao": "Protetores de borracha, exceto os itens classificados no CEST 16.007.01",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "16.008.00",
+            "ncm": "4013",
+            "Descricao": "Câmaras de ar de borracha, exceto os itens classificados no CEST 16.009.00",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "MEDICAMENTOS_E_PRODUTOS_FARMACEUTICOS": [
+        {
+            "cest": "13.001.00",
+            "ncm": "3001 a 3006",
+            "Descricao": "Medicamentos de uso humano e outros produtos farmacêuticos para uso humano ou veterinário, relacionados no Anexo XIV do Convênio ICMS 142/18",
+            "mva_original": 42,
+            "mva_ajustada_12": 56.2,
+            "mva_ajustada_4": 70.4
+        },
+        {
+            "cest": "13.002.00",
+            "ncm": "3001 a 3006",
+            "Descricao": "Medicamentos de uso humano e outros produtos farmacêuticos não relacionados no Anexo XIV do Convênio ICMS 142/18",
+            "mva_original": 60,
+            "mva_ajustada_12": 76,
+            "mva_ajustada_4": 92
+        },
+        {
+            "cest": "13.003.00",
+            "ncm": "3006.70.00",
+            "Descricao": "Preservativos e outros anticoncepcionais, de borracha",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "13.004.00",
+            "ncm": "3006.60.00",
+            "Descricao": "Produtos químicos contraceptivos à base de hormônios",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "13.005.00",
+            "ncm": "3006.50.00",
+            "Descricao": "Cimentos e outros produtos para obturação dentária; cimentos para reconstituição óssea",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PERFUMARIA_HIGIENE_COSMETICOS": [
+        {
+            "cest": "20.001.00",
+            "ncm": "3303",
+            "Descricao": "Perfumes (extratos) e águas-de-colônia",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        },
+        {
+            "cest": "20.002.00",
+            "ncm": "3304",
+            "Descricao": "Produtos de beleza ou de maquilagem e preparações para conservação ou cuidados da pele (exceto medicamentos), incluídos os protetores solares e bronzeadores",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        },
+        {
+            "cest": "20.003.00",
+            "ncm": "3305",
+            "Descricao": "Preparações capilares",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        },
+        {
+            "cest": "20.004.00",
+            "ncm": "3306",
+            "Descricao": "Preparações para higiene bucal ou dentária, incluídos os pós e cremes para fixação de dentaduras",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        },
+        {
+            "cest": "20.005.00",
+            "ncm": "3307",
+            "Descricao": "Preparações para barbear, desodorantes corporais, banhos espumantes, depilatórios e outros produtos de perfumaria, de toucador ou de cosmética não especificados nem compreendidos em outras posições",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        }
+    ],
+    "PRODUTOS_DE_LIMPEZA": [
+        {
+            "cest": "11.001.00",
+            "ncm": "3401",
+            "Descricao": "Sabões e sabonetes, em barras, pedaços ou figuras moldadas, e papel impregnado ou recoberto de sabão ou detergente",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "11.002.00",
+            "ncm": "3402",
+            "Descricao": "Preparações tensoativas, preparações para lavagem e limpeza, incluídas as auxiliares de lavagem, exceto as classificadas no CEST 11.003.00",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "11.003.00",
+            "ncm": "3402.20.00",
+            "Descricao": "Preparações para lavagem de veículos automotores",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "11.004.00",
+            "ncm": "3403",
+            "Descricao": "Preparações lubrificantes e preparações dos tipos utilizadas para lubrificar ou tratar matérias têxteis, couros, peles ou outras matérias",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "11.005.00",
+            "ncm": "3405",
+            "Descricao": "Pastas, pós e outras preparações para polir, exceto as classificadas no CEST 11.006.00",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "11.006.00",
+            "ncm": "3405.40.00",
+            "Descricao": "Preparações para polir carrocerias de veículos automotores",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PAPEIS_PLASTICOS_CERAMICOS_VIDROS": [
+        {
+            "cest": "10.001.00",
+            "ncm": "3923",
+            "Descricao": "Artigos de plástico para transporte ou embalagem de mercadorias (caixas, engradados, paletes, garrafões, frascos, bombonas, sacos, etc.)",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "10.002.00",
+            "ncm": "3924",
+            "Descricao": "Outros artefatos de plástico para uso doméstico e higiene pessoal",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "10.003.00",
+            "ncm": "3926",
+            "Descricao": "Outros artefatos de plástico não especificados anteriormente",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "10.004.00",
+            "ncm": "4818",
+            "Descricao": "Guardanapos, lenços, toalhas, fraldas, absorventes e artigos semelhantes de papel",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "10.005.00",
+            "ncm": "4819",
+            "Descricao": "Caixas, sacos, cartuchos e semelhantes, de papel ou cartão, para transporte ou embalagem de mercadorias",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "10.006.00",
+            "ncm": "4820",
+            "Descricao": "Cadernos, agendas, pastas, fichários e outros artigos de papelaria",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "10.007.00",
+            "ncm": "6907",
+            "Descricao": "Ladrilhos e placas de cerâmica, exclusivamente para pavimentação ou revestimento",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "10.008.00",
+            "ncm": "7010",
+            "Descricao": "Frascos, garrafões, potes, ampolas e outros recipientes de vidro, de capacidade não superior a 2 litros",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PRODUTOS_ALIMENTICIOS": [
+        {
+            "cest": "17.001.00",
+            "ncm": "0401 a 0406",
+            "Descricao": "Leite e derivados, incluídos queijos e manteiga",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        },
+        {
+            "cest": "17.002.00",
+            "ncm": "1905",
+            "Descricao": "Pães, bolos, biscoitos e produtos de padaria, mesmo com adição de cacau",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "17.003.00",
+            "ncm": "2009",
+            "Descricao": "Sucos de frutas e de vegetais, não fermentados, sem adição de álcool",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "17.004.00",
+            "ncm": "2106.90.10",
+            "Descricao": "Preparações alimentícias compostas, para elaboração de alimentos e bebidas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "17.005.00",
+            "ncm": "2202.10.00",
+            "Descricao": "Águas, incluídas as minerais e gaseificadas, adicionadas de açúcar ou aromatizadas",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "PRODUTOS_DE_PAPELARIA": [
+        {
+            "cest": "19.001.00",
+            "ncm": "4820",
+            "Descricao": "Cadernos, agendas, diários, blocos de anotações e outros artigos semelhantes de papel ou cartão",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "19.002.00",
+            "ncm": "4821",
+            "Descricao": "Etiquetas, rótulos e títulos de papel ou cartão, impressos ou não",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "19.003.00",
+            "ncm": "4823",
+            "Descricao": "Outros artigos de papelaria, incluídos pastas, fichários, envelopes, papel almaço e papel ofício",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "ELETRONICOS_ELETRODOMESTICOS": [
+        {
+            "cest": "21.001.00",
+            "ncm": "7321.11.00 / 7321.81.00 / 7321.90.00",
+            "Descricao": "Fogões de cozinha de uso doméstico e suas partes",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.002.00",
+            "ncm": "8418.10.00",
+            "Descricao": "Combinações de refrigeradores e congeladores (freezers), com portas exteriores separadas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.003.00",
+            "ncm": "8418.21.00",
+            "Descricao": "Refrigeradores do tipo doméstico, de compressão",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.004.00",
+            "ncm": "8418.29.00",
+            "Descricao": "Outros refrigeradores do tipo doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.005.00",
+            "ncm": "8418.30.00",
+            "Descricao": "Congeladores (freezers) horizontais tipo arca, até 800 litros",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.006.00",
+            "ncm": "8418.40.00",
+            "Descricao": "Congeladores (freezers) verticais tipo armário, até 900 litros",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.007.00",
+            "ncm": "8418.50.00",
+            "Descricao": "Móveis para conservação e exposição de produtos com equipamento de frio incorporado",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.008.00",
+            "ncm": "8418.69.90",
+            "Descricao": "Mini adegas e similares",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.009.00",
+            "ncm": "8418.69.99",
+            "Descricao": "Máquinas para produção de gelo",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.010.00",
+            "ncm": "8418.99.00",
+            "Descricao": "Partes de refrigeradores, congeladores, mini adegas, máquinas de gelo e bebedouros",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.011.00",
+            "ncm": "8421.12.00",
+            "Descricao": "Secadoras de roupa de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.012.00",
+            "ncm": "8421.19.90",
+            "Descricao": "Outras secadoras de roupas e centrífugas de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.013.00",
+            "ncm": "8422.11.00",
+            "Descricao": "Máquinas de lavar louça de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.014.00",
+            "ncm": "8450.11.00",
+            "Descricao": "Máquinas de lavar roupa, de uso doméstico, com capacidade não superior a 10 kg, secagem por centrifugação",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.015.00",
+            "ncm": "8450.12.00",
+            "Descricao": "Máquinas de lavar roupa, de uso doméstico, com capacidade superior a 10 kg, secagem por centrifugação",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.016.00",
+            "ncm": "8450.19.00",
+            "Descricao": "Outras máquinas de lavar roupa, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.017.00",
+            "ncm": "8450.90.10",
+            "Descricao": "Partes de máquinas de lavar roupa de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.018.00",
+            "ncm": "8451.21.00",
+            "Descricao": "Máquinas de secar roupa, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.019.00",
+            "ncm": "8451.90.00",
+            "Descricao": "Partes de máquinas de secar roupa de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.020.00",
+            "ncm": "8509",
+            "Descricao": "Aspiradores de pó e outros eletrodomésticos de uso doméstico semelhantes",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.021.00",
+            "ncm": "8414.51.10",
+            "Descricao": "Ventiladores de mesa, de parede, de teto, de coluna ou de pé, de uso doméstico, com potência inferior ou igual a 125 W",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.022.00",
+            "ncm": "8509.40.00",
+            "Descricao": "Trituradores e misturadores de alimentos, espremedores de frutas ou de produtos hortícolas, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.023.00",
+            "ncm": "8516.10.00",
+            "Descricao": "Aquecedores elétricos de água de uso doméstico, incluídos os aquecedores de imersão",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.024.00",
+            "ncm": "8516.21.00",
+            "Descricao": "Aparelhos elétricos para preparação de café ou chá, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.025.00",
+            "ncm": "8516.32.00",
+            "Descricao": "Fornos micro-ondas de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.026.00",
+            "ncm": "8516.33.00",
+            "Descricao": "Aparelhos elétricos para preparação de alimentos ou de bebidas, de uso doméstico, não especificados nem compreendidos em outras posições",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.027.00",
+            "ncm": "8516.40.00",
+            "Descricao": "Ferros elétricos de passar roupa",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.028.00",
+            "ncm": "8516.50.00",
+            "Descricao": "Aparelhos elétricos para aquecimento de ambientes, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.029.00",
+            "ncm": "8516.60.00",
+            "Descricao": "Aparelhos elétricos para secar cabelo, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.030.00",
+            "ncm": "8516.71.00",
+            "Descricao": "Aparelhos elétricos para barbear, cortar o cabelo ou depilar, com motor elétrico incorporado, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.031.00",
+            "ncm": "8516.72.00",
+            "Descricao": "Aparelhos elétricos para barbear, cortar o cabelo ou depilar, sem motor elétrico incorporado, de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.032.00",
+            "ncm": "8516.79.00",
+            "Descricao": "Outros aparelhos elétricos de uso doméstico para cuidados pessoais (ex: modeladores de cabelo, escovas elétricas, etc.)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.033.00",
+            "ncm": "8516.80.10",
+            "Descricao": "Aparelhos elétricos para aquecimento de alimentos, de uso doméstico (ex: torradeiras, sanduicheiras, etc.)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.034.00",
+            "ncm": "8516.80.90",
+            "Descricao": "Outros aparelhos elétricos de uso doméstico não especificados anteriormente",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.035.00",
+            "ncm": "8528.72.00",
+            "Descricao": "Aparelhos receptores de televisão, mesmo com aparelho receptor de radiodifusão ou gravador ou reprodutor de som incorporado, com tela de cristal líquido (LCD)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.036.00",
+            "ncm": "8528.73.00",
+            "Descricao": "Aparelhos receptores de televisão com tela de plasma ou outras tecnologias (exceto LCD)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.037.00",
+            "ncm": "8528.71.00",
+            "Descricao": "Aparelhos receptores de televisão com tubo de raios catódicos (CRT)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.038.00",
+            "ncm": "8521.90.90",
+            "Descricao": "Outros aparelhos de gravação ou reprodução de vídeo, mesmo incorporando um receptor de sinais de televisão",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.039.00",
+            "ncm": "8527.13.00",
+            "Descricao": "Aparelhos receptores de radiodifusão, combinados com gravação ou reprodução de som, com leitor de disco óptico (CD)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.040.00",
+            "ncm": "8527.19.10",
+            "Descricao": "Aparelhos receptores de radiodifusão com relógio-despertador incorporado (rádio-relógio)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.041.00",
+            "ncm": "8527.19.90",
+            "Descricao": "Outros aparelhos receptores de radiodifusão, mesmo combinados com gravação ou reprodução de som, não especificados anteriormente",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.042.00",
+            "ncm": "8528.71.10",
+            "Descricao": "Aparelhos receptores de televisão com tubo de raios catódicos (CRT), com tela inferior ou igual a 29 polegadas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.043.00",
+            "ncm": "8528.71.90",
+            "Descricao": "Outros aparelhos receptores de televisão com tubo de raios catódicos (CRT), não especificados anteriormente",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.044.00",
+            "ncm": "8528.72.10",
+            "Descricao": "Aparelhos receptores de televisão com tela de cristal líquido (LCD), com tela inferior ou igual a 32 polegadas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.045.00",
+            "ncm": "8528.72.90",
+            "Descricao": "Outros aparelhos receptores de televisão com tela de cristal líquido (LCD), não especificados anteriormente",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.046.00",
+            "ncm": "8528.73.00",
+            "Descricao": "Aparelhos receptores de televisão com tela de plasma ou outras tecnologias (exceto LCD e CRT)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.047.00",
+            "ncm": "8529.90.90",
+            "Descricao": "Partes reconhecíveis como exclusiva ou principalmente destinadas aos aparelhos de televisão classificados nos CEST 21.035.00 a 21.046.00",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.048.00",
+            "ncm": "8536.50.90",
+            "Descricao": "Outros interruptores, seccionadores e comutadores elétricos, próprios para aparelhos eletroeletrônicos de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.049.00",
+            "ncm": "8540.11.00",
+            "Descricao": "Tubo de raios catódicos para aparelhos de televisão em cores",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.050.00",
+            "ncm": "8540.12.00",
+            "Descricao": "Tubo de raios catódicos para aparelhos de televisão em preto e branco ou em cores monocromáticas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.051.00",
+            "ncm": "8540.20.19",
+            "Descricao": "Outros tubos de raios catódicos, exceto para aparelhos de televisão em cores ou monocromáticos",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.052.00",
+            "ncm": "8540.91.00",
+            "Descricao": "Partes de tubos de raios catódicos para aparelhos de televisão em cores",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.053.00",
+            "ncm": "8540.92.00",
+            "Descricao": "Partes de tubos de raios catódicos para aparelhos de televisão em preto e branco ou monocromáticos",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.054.00",
+            "ncm": "8540.99.00",
+            "Descricao": "Outras partes de tubos de raios catódicos não especificadas anteriormente",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.055.00",
+            "ncm": "8541.10.10",
+            "Descricao": "Diodos emissores de luz (LED), próprios para aparelhos eletroeletrônicos de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.056.00",
+            "ncm": "8541.40.32",
+            "Descricao": "Transistores de potência, próprios para aparelhos eletroeletrônicos de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.057.00",
+            "ncm": "8542.31.11",
+            "Descricao": "Circuitos integrados digitais, próprios para aparelhos eletroeletrônicos de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.058.00",
+            "ncm": "8542.31.19",
+            "Descricao": "Outros circuitos integrados digitais, próprios para aparelhos eletroeletrônicos de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.059.00",
+            "ncm": "8542.32.00",
+            "Descricao": "Circuitos integrados analógicos, próprios para aparelhos eletroeletrônicos de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "21.060.00",
+            "ncm": "8542.33.00",
+            "Descricao": "Circuitos integrados híbridos, próprios para aparelhos eletroeletrônicos de uso doméstico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "PRODUTOS_DE_USO_DOMESTICO": [
+        {
+            "cest": "12.001.00",
+            "ncm": "3924.10.00",
+            "Descricao": "Serviços de mesa e outros utensílios de mesa ou de cozinha, de plástico, inclusive os descartáveis",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "12.002.00",
+            "ncm": "4419.00.00",
+            "Descricao": "Artefatos de madeira para mesa ou cozinha",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "12.003.00",
+            "ncm": "4823.20.90",
+            "Descricao": "Filtros descartáveis para coar café ou chá",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "12.004.00",
+            "ncm": "4823.60",
+            "Descricao": "Bandejas, travessas, pratos, xícaras, taças, copos e artigos semelhantes, de papel ou cartão",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PRODUTOS_INFANTIS": [
+        {
+            "cest": "18.001.00",
+            "ncm": "9503",
+            "Descricao": "Brinquedos, incluídos os de rodas, triciclos, patinetes, bonecos, jogos e quebra-cabeças",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "18.002.00",
+            "ncm": "9401.80.00",
+            "Descricao": "Cadeiras para automóveis, adaptáveis para crianças",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "18.003.00",
+            "ncm": "8715.00.00",
+            "Descricao": "Carrinhos de bebê e seus acessórios",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "INFORMATICA_E_TELEFONIA": [
+        {
+            "cest": "22.001.00",
+            "ncm": "8471",
+            "Descricao": "Máquinas automáticas para processamento de dados (computadores), suas unidades e periféricos",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "22.002.00",
+            "ncm": "8473",
+            "Descricao": "Partes e acessórios reconhecíveis como exclusivos ou principalmente destinados às máquinas da posição 8471",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "22.003.00",
+            "ncm": "8517.12.31 / 8517.12.32 / 8517.12.39",
+            "Descricao": "Aparelhos telefônicos móveis (celulares e smartphones)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "22.004.00",
+            "ncm": "8517.62.51 / 8517.62.52 / 8517.62.59",
+            "Descricao": "Roteadores, modems e outros aparelhos de comunicação de dados por redes com ou sem fio",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "22.005.00",
+            "ncm": "8523",
+            "Descricao": "Dispositivos de armazenamento de dados à base de semicondutores (pen drives, cartões de memória, SSDs, etc.)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "AUTOMACAO_COMERCIAL": [
+        {
+            "cest": "23.001.00",
+            "ncm": "8470.10.00",
+            "Descricao": "Caixas registradoras",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "23.002.00",
+            "ncm": "8470.50.10",
+            "Descricao": "Terminais de autoatendimento (POS) com função de pagamento eletrônico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "23.003.00",
+            "ncm": "8470.50.90",
+            "Descricao": "Outros terminais de autoatendimento e equipamentos de automação comercial não especificados anteriormente",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "PRODUTOS_DE_USO_PESSOAL": [
+        {
+            "cest": "24.001.00",
+            "ncm": "9619.00.00",
+            "Descricao": "Fraldas descartáveis de qualquer tipo ou material",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "24.002.00",
+            "ncm": "9615.11.00",
+            "Descricao": "Pentes, escovas de cabelo, escovas para dentes e similares, de uso pessoal",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "24.003.00",
+            "ncm": "9616.10.00",
+            "Descricao": "Bastões e aparelhos de barbear, incluídos os descartáveis",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "RACOES_PARA_ANIMAIS_DOMESTICOS": [
+        {
+            "cest": "22.001.00",
+            "ncm": "2309",
+            "Descricao": "Ração tipo 'pet' para animais domésticos",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PRODUTOS_DE_TABACARIA": [
+        {
+            "cest": "25.001.00",
+            "ncm": "2402",
+            "Descricao": "Cigarros, charutos, cigarrilhas e outros produtos manufaturados de tabaco",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        },
+        {
+            "cest": "25.002.00",
+            "ncm": "9613",
+            "Descricao": "Isqueiros e acendedores automáticos, mecânicos ou elétricos, e suas partes",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        },
+        {
+            "cest": "25.003.00",
+            "ncm": "9614",
+            "Descricao": "Cachimbos, piteiras, cigarreiras, porta-cigarros e artigos semelhantes, e suas partes",
+            "mva_original": 55,
+            "mva_ajustada_12": 70.6,
+            "mva_ajustada_4": 86.2
+        }
+    ],
+    "ARMAS_MUNICÕES_E_CORRELATOS": [
+        {
+            "cest": "26.001.00",
+            "ncm": "9302",
+            "Descricao": "Revólveres e pistolas, exceto as das posições 9303 e 9304",
+            "mva_original": 60,
+            "mva_ajustada_12": 76,
+            "mva_ajustada_4": 92
+        },
+        {
+            "cest": "26.002.00",
+            "ncm": "9303",
+            "Descricao": "Outras armas de fogo e semelhantes que utilizem a deflagração de pólvora",
+            "mva_original": 60,
+            "mva_ajustada_12": 76,
+            "mva_ajustada_4": 92
+        },
+        {
+            "cest": "26.003.00",
+            "ncm": "9306",
+            "Descricao": "Munições e suas partes, incluídos cartuchos e espoletas",
+            "mva_original": 60,
+            "mva_ajustada_12": 76,
+            "mva_ajustada_4": 92
+        }
+    ],
+    "PRODUTOS_CONSTRUCAO_CIVIL": [
+        {
+            "cest": "14.001.00",
+            "ncm": "2523",
+            "Descricao": "Cimentos hidráulicos, exceto os classificados no CEST 14.002.00",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        },
+        {
+            "cest": "14.002.00",
+            "ncm": "2523.29.00",
+            "Descricao": "Cimentos brancos",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        },
+        {
+            "cest": "14.003.00",
+            "ncm": "6810",
+            "Descricao": "Artefatos de cimento, concreto ou de pedra artificial, para construção",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        },
+        {
+            "cest": "14.004.00",
+            "ncm": "6904",
+            "Descricao": "Tijolos, placas, ladrilhos e peças cerâmicas semelhantes, refratários",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        },
+        {
+            "cest": "14.005.00",
+            "ncm": "6907",
+            "Descricao": "Ladrilhos e placas de cerâmica, exclusivamente para pavimentação ou revestimento",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        }
+    ],
+    "MATERIAIS_ELETRICOS": [
+        {
+            "cest": "15.001.00",
+            "ncm": "8536.10.00",
+            "Descricao": "Fusíveis e corta-circuitos de fusíveis para tensão não superior a 1.000 V",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "15.002.00",
+            "ncm": "8536.20.00",
+            "Descricao": "Disjuntores para tensão não superior a 1.000 V",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "15.003.00",
+            "ncm": "8536.50.90",
+            "Descricao": "Outros interruptores, seccionadores e comutadores elétricos, próprios para instalações elétricas residenciais ou comerciais",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "15.004.00",
+            "ncm": "8544.42.00",
+            "Descricao": "Cabos de cobre isolados para tensão não superior a 1.000 V, próprios para instalações elétricas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "15.005.00",
+            "ncm": "8544.49.00",
+            "Descricao": "Outros cabos e condutores elétricos isolados, próprios para instalações elétricas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "PRODUTOS_USO_AGROPECUARIO": [
+        {
+            "cest": "27.001.00",
+            "ncm": "3101 a 3105",
+            "Descricao": "Adubos ou fertilizantes de origem mineral ou química",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        },
+        {
+            "cest": "27.002.00",
+            "ncm": "3808",
+            "Descricao": "Inseticidas, herbicidas, fungicidas, desinfetantes e produtos semelhantes para uso na agricultura",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "27.003.00",
+            "ncm": "2309",
+            "Descricao": "Preparações destinadas à alimentação de animais de criação (exceto rações tipo pet)",
+            "mva_original": 30,
+            "mva_ajustada_12": 43,
+            "mva_ajustada_4": 56
+        }
+    ],
+    "PAPEL_CARTAO_IMPRESSOS": [
+        {
+            "cest": "28.001.00",
+            "ncm": "4802",
+            "Descricao": "Papel para impressão ou escrita, não revestido, em rolos ou folhas",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "28.002.00",
+            "ncm": "4810",
+            "Descricao": "Papel e cartão revestidos de caulim ou de outras substâncias inorgânicas",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "28.003.00",
+            "ncm": "4811",
+            "Descricao": "Outros papéis e cartões revestidos, impregnados ou recobertos",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "28.004.00",
+            "ncm": "4817",
+            "Descricao": "Envelopes, cartas, cartões postais, pastas para documentos e artigos semelhantes de papel ou cartão",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "28.005.00",
+            "ncm": "4821.10.00",
+            "Descricao": "Etiquetas de papel ou cartão, impressas",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        }
+    ],
+    "PRODUTOS_USO_AUTOMOTIVO": [
+        {
+            "cest": "30.001.00",
+            "ncm": "8708",
+            "Descricao": "Partes e acessórios dos veículos automóveis das posições 87.01 a 87.05 (ex: para-choques, retrovisores, lanternas, etc.)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "30.002.00",
+            "ncm": "8407 / 8408",
+            "Descricao": "Motores de pistão alternativo e suas partes, próprios para veículos automotores",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "30.003.00",
+            "ncm": "8511",
+            "Descricao": "Aparelhos e dispositivos elétricos de ignição ou de partida para motores de veículos automotores",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "30.004.00",
+            "ncm": "8708.80.00",
+            "Descricao": "Amortecedores de suspensão para veículos automotores",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "30.005.00",
+            "ncm": "8708.30.90",
+            "Descricao": "Freios e suas partes, exceto discos e tambores",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "PRODUTOS_PRESTACAO_SERVICOS": [
+        {
+            "cest": "31.001.00",
+            "ncm": "3402.20.00",
+            "Descricao": "Produtos de limpeza utilizados na prestação de serviços (ex: lavanderias, limpeza profissional)",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "31.002.00",
+            "ncm": "3924.10.00",
+            "Descricao": "Utensílios plásticos de uso profissional (ex: salões de beleza, clínicas, pet shops)",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "31.003.00",
+            "ncm": "9603.21.00",
+            "Descricao": "Escovas e pincéis utilizados em serviços de estética, pintura ou limpeza técnica",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "31.004.00",
+            "ncm": "3307.90.90",
+            "Descricao": "Produtos aromatizantes e neutralizadores de odor utilizados em ambientes de prestação de serviços",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "PRODUTOS_SAUDE_SEGURANCA": [
+        {
+            "cest": "32.001.00",
+            "ncm": "3005.90.90",
+            "Descricao": "Curativos, gazes, ataduras e artigos semelhantes, esterilizados ou não",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "32.002.00",
+            "ncm": "4015.11.00",
+            "Descricao": "Luvas cirúrgicas de borracha",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "32.003.00",
+            "ncm": "4015.19.00",
+            "Descricao": "Outras luvas de borracha para uso médico ou de proteção",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "32.004.00",
+            "ncm": "6307.90.10",
+            "Descricao": "Máscaras de proteção facial descartáveis, inclusive as do tipo cirúrgico",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        },
+        {
+            "cest": "32.005.00",
+            "ncm": "9018.39.29",
+            "Descricao": "Outros instrumentos e aparelhos para medicina ou cirurgia, não especificados anteriormente",
+            "mva_original": 35,
+            "mva_ajustada_12": 48.1,
+            "mva_ajustada_4": 61.2
+        }
+    ],
+    "PRODUTOS_USO_PROFISSIONAL_INDUSTRIAL": [
+        {
+            "cest": "33.001.00",
+            "ncm": "3926.90.90",
+            "Descricao": "Capacetes, cintos de segurança, coletes e outros equipamentos de proteção individual (EPI), exceto os classificados em outras seções",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "33.002.00",
+            "ncm": "4015.19.00",
+            "Descricao": "Luvas de borracha para uso industrial ou profissional, não esterilizadas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "33.003.00",
+            "ncm": "6210.10.00",
+            "Descricao": "Roupas de proteção e segurança, inclusive resistentes a fogo, para uso profissional",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "33.004.00",
+            "ncm": "6506.10.00",
+            "Descricao": "Capacetes de proteção para uso industrial ou profissional",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "PRODUTOS_USO_ESCRITORIOS_COMERCIO": [
+        {
+            "cest": "34.001.00",
+            "ncm": "8472.10.00",
+            "Descricao": "Máquinas de escrever, mesmo com dispositivo de cálculo",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "34.002.00",
+            "ncm": "8472.90.10",
+            "Descricao": "Máquinas de calcular de uso comercial",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "34.003.00",
+            "ncm": "8472.90.90",
+            "Descricao": "Outras máquinas e aparelhos de uso em escritórios, não especificados anteriormente",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "34.004.00",
+            "ncm": "8443.31.11",
+            "Descricao": "Impressoras de uso comercial, com tecnologia jato de tinta",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "34.005.00",
+            "ncm": "8443.32.31",
+            "Descricao": "Impressoras de uso comercial, com tecnologia laser",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "LIMPEZA_E_HIGIENE_AMBIENTAL": [
+        {
+            "cest": "35.001.00",
+            "ncm": "3401",
+            "Descricao": "Sabões e preparações orgânicas tensoativas para lavagem da pele, em barras, líquidos ou cremes",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "35.002.00",
+            "ncm": "3402",
+            "Descricao": "Preparações para lavagem e limpeza, mesmo contendo sabão (ex: detergentes, desinfetantes, limpadores multiuso)",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "35.003.00",
+            "ncm": "3405",
+            "Descricao": "Preparações para dar brilho ou limpar superfícies (ex: ceras, polidores, pastas para metais ou vidros)",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "35.004.00",
+            "ncm": "3407",
+            "Descricao": "Massas ou pastas para modelar, ceras odontológicas e composições para uso técnico ou recreativo",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "MANUTENCAO_E_CONSERVACAO": [
+        {
+            "cest": "36.001.00",
+            "ncm": "8205.40.00",
+            "Descricao": "Chaves de fenda, chaves combinadas, chaves inglesas e ferramentas manuais semelhantes",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "36.002.00",
+            "ncm": "8205.90.90",
+            "Descricao": "Outras ferramentas manuais, incluídos kits de manutenção e conservação",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "36.003.00",
+            "ncm": "8467.29.99",
+            "Descricao": "Furadeiras, lixadeiras, parafusadeiras e outras ferramentas elétricas portáteis",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "36.004.00",
+            "ncm": "3403.19.00",
+            "Descricao": "Óleos lubrificantes e preparações para manutenção de máquinas e equipamentos",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "36.005.00",
+            "ncm": "3814.00.90",
+            "Descricao": "Desincrustantes, anticorrosivos e outros produtos químicos para conservação de superfícies",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "SEGURANCA_ELETRONICA_MONITORAMENTO": [
+        {
+            "cest": "36.001.00",
+            "ncm": "8525.89.29",
+            "Descricao": "Câmeras de vigilância e monitoramento por vídeo, inclusive câmeras IP",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "36.002.00",
+            "ncm": "8531.10.90",
+            "Descricao": "Sistemas de alarme contra roubo ou incêndio, com ou sem fio, próprios para segurança patrimonial",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "36.003.00",
+            "ncm": "8531.20.00",
+            "Descricao": "Campainhas, videoporteiros e dispositivos de intercomunicação com ou sem câmera",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "36.004.00",
+            "ncm": "8543.70.99",
+            "Descricao": "Outros dispositivos eletrônicos de segurança, como sensores de presença, detectores de fumaça e movimento",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "ENTRETENIMENTO_E_LAZER": [
+        {
+            "cest": "37.001.00",
+            "ncm": "9504.50.00",
+            "Descricao": "Videogames e consoles, incluídos os portáteis",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "37.002.00",
+            "ncm": "9504.40.00",
+            "Descricao": "Cartuchos, discos e mídias para videogames",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "37.003.00",
+            "ncm": "9504.30.00",
+            "Descricao": "Mesas de jogos automáticos, incluídos os de bilhar e pebolim, com ou sem moedas",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "37.004.00",
+            "ncm": "9504.20.00",
+            "Descricao": "Jogos de salão, incluídos os de tabuleiro, cartas e dados",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "37.005.00",
+            "ncm": "9506",
+            "Descricao": "Artigos e equipamentos para esportes, ginástica ou atividades recreativas ao ar livre ou em academias",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "BELEZA_E_CUIDADOS_PESSOAIS": [
+        {
+            "cest": "38.001.00",
+            "ncm": "3304",
+            "Descricao": "Produtos de maquiagem e cosméticos para cuidados com a pele (ex: bases, batons, sombras, cremes faciais)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "38.002.00",
+            "ncm": "3305",
+            "Descricao": "Produtos capilares (ex: shampoos, condicionadores, máscaras, finalizadores)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "38.003.00",
+            "ncm": "3306",
+            "Descricao": "Produtos de higiene bucal (ex: cremes dentais, enxaguantes, fio dental)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "38.004.00",
+            "ncm": "3307",
+            "Descricao": "Outros produtos de perfumaria e higiene pessoal (ex: desodorantes, perfumes, loções corporais)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "EDUCACAO_E_PAPELARIA": [
+        {
+            "cest": "39.001.00",
+            "ncm": "3926.10.00",
+            "Descricao": "Artigos de escritório e escolares de plástico (ex: réguas, estojos, pastas, pranchetas)",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "39.002.00",
+            "ncm": "4820",
+            "Descricao": "Cadernos, agendas, blocos de anotações, livros contábeis e artigos semelhantes de papel",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "39.003.00",
+            "ncm": "9608",
+            "Descricao": "Canetas, marcadores, lápis, lapiseiras e outros instrumentos de escrita ou desenho",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "39.004.00",
+            "ncm": "9612",
+            "Descricao": "Fitas adesivas, colas e pastas para papelaria ou uso escolar",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "FESTAS_E_DECORACOES": [
+        {
+            "cest": "40.001.00",
+            "ncm": "9505.10.00",
+            "Descricao": "Artigos para festas: balões, serpentinas, confetes, chapéus, apitos e similares",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "40.002.00",
+            "ncm": "9505.90.00",
+            "Descricao": "Outros artigos de festas e celebrações, incluídos enfeites temáticos e kits decorativos",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "40.003.00",
+            "ncm": "3924.90.00",
+            "Descricao": "Copos, pratos, talheres e utensílios descartáveis de plástico com temática festiva",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "40.004.00",
+            "ncm": "4823.60.00",
+            "Descricao": "Artigos de papel ou cartão para festas: bandejas, forminhas, enfeites de mesa e similares",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "TRANSPORTE_E_EMBALAGEM": [
+        {
+            "cest": "41.001.00",
+            "ncm": "3923.21.90",
+            "Descricao": "Sacos e sacolas de polímeros de etileno, para embalagem de produtos diversos",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "41.002.00",
+            "ncm": "3923.30.00",
+            "Descricao": "Garrafões, garrafas, frascos e artigos semelhantes de plástico, para transporte ou acondicionamento",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "41.003.00",
+            "ncm": "4819.10.00",
+            "Descricao": "Caixas, sacos e envelopes de papel ou cartão, para embalagem de produtos",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        },
+        {
+            "cest": "41.004.00",
+            "ncm": "7310.10.00",
+            "Descricao": "Contentores de ferro ou aço, para transporte de mercadorias",
+            "mva_original": 40,
+            "mva_ajustada_12": 54,
+            "mva_ajustada_4": 68
+        }
+    ],
+    "ENERGIA_E_ILUMINACAO": [
+        {
+            "cest": "42.001.00",
+            "ncm": "8539",
+            "Descricao": "Lâmpadas elétricas de filamento, fluorescentes, LED e outras fontes de luz",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "42.002.00",
+            "ncm": "8541.40.32",
+            "Descricao": "Diodos emissores de luz (LEDs) montados, próprios para iluminação",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "42.003.00",
+            "ncm": "9405",
+            "Descricao": "Aparelhos de iluminação elétrica, incluídos os de teto, parede, chão ou móveis",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "42.004.00",
+            "ncm": "8504.40.90",
+            "Descricao": "Fontes de alimentação e reatores eletrônicos para lâmpadas e luminárias",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "CLIMATIZACAO_E_VENTILACAO": [
+        {
+            "cest": "43.001.00",
+            "ncm": "8415.10.10",
+            "Descricao": "Aparelhos de ar-condicionado do tipo janela ou parede, com dispositivo de condensação incorporado",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "43.002.00",
+            "ncm": "8415.81.10",
+            "Descricao": "Aparelhos de ar-condicionado do tipo split-system",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "43.003.00",
+            "ncm": "8414.59.90",
+            "Descricao": "Ventiladores de uso doméstico ou comercial, incluídos exaustores e circuladores de ar",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "43.004.00",
+            "ncm": "8414.80.19",
+            "Descricao": "Turbinas e sopradores de ar para sistemas de ventilação e climatização",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "COZINHA_E_UTILIDADES_DOMESTICAS": [
+        {
+            "cest": "44.001.00",
+            "ncm": "7323.93.00",
+            "Descricao": "Panelas, frigideiras e outros utensílios de cozinha de ferro ou aço",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "44.002.00",
+            "ncm": "3924.10.00",
+            "Descricao": "Utensílios domésticos de plástico (ex: potes, escorredores, colheres, conchas)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "44.003.00",
+            "ncm": "6912.00.00",
+            "Descricao": "Louças de mesa ou cozinha de cerâmica ou porcelana",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "44.004.00",
+            "ncm": "8215.20.00",
+            "Descricao": "Talheres de metal comum (ex: facas, garfos, colheres)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "44.005.00",
+            "ncm": "9617.00.10",
+            "Descricao": "Garrafas térmicas e outros recipientes isotérmicos para uso doméstico",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "DOMESTICOS_DIVERSOS": [
+        {
+            "cest": "45.001.00",
+            "ncm": "3924.90.00",
+            "Descricao": "Artigos domésticos de plástico não especificados anteriormente (ex: baldes, bacias, lixeiras)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "45.002.00",
+            "ncm": "4419.00.00",
+            "Descricao": "Utensílios domésticos de madeira (ex: colheres, tábuas de corte, cabides)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "45.003.00",
+            "ncm": "7013.49.00",
+            "Descricao": "Artigos de vidro para uso doméstico (ex: copos, jarras, potes)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "45.004.00",
+            "ncm": "7323.99.00",
+            "Descricao": "Outros utensílios domésticos de metal comum (ex: escorredores, peneiras, suportes)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "45.005.00",
+            "ncm": "9603.90.00",
+            "Descricao": "Escovas, vassouras, rodos e similares para uso doméstico",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "TECNOLOGIA_E_INFORMATICA": [
+        {
+            "cest": "46.001.00",
+            "ncm": "8471.30.12",
+            "Descricao": "Computadores portáteis (laptops, notebooks, ultrabooks)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "46.002.00",
+            "ncm": "8471.50.10",
+            "Descricao": "Unidades de processamento digital (CPUs) para computadores",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "46.003.00",
+            "ncm": "8471.60.52",
+            "Descricao": "Unidades de armazenamento de dados (HDs, SSDs, etc.)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "46.004.00",
+            "ncm": "8471.60.53",
+            "Descricao": "Unidades de entrada e saída (monitores, teclados, mouses)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "46.005.00",
+            "ncm": "8443.32.99",
+            "Descricao": "Impressoras multifuncionais e scanners",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "TELECOMUNICACOES_E_CONECTIVIDADE": [
+        {
+            "cest": "47.001.00",
+            "ncm": "8517.12.31",
+            "Descricao": "Aparelhos telefônicos celulares (smartphones e feature phones)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "47.002.00",
+            "ncm": "8517.62.39",
+            "Descricao": "Roteadores, modems e dispositivos de rede sem fio (Wi-Fi, LTE, 5G)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "47.003.00",
+            "ncm": "8517.62.51",
+            "Descricao": "Switches, hubs e equipamentos de rede com fio",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "47.004.00",
+            "ncm": "8544.42.00",
+            "Descricao": "Cabos de rede, conectores e acessórios para telecomunicações",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "47.005.00",
+            "ncm": "8517.18.10",
+            "Descricao": "Centrais telefônicas, PABX e equipamentos de comutação",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "MOBILIARIO_E_DECORACAO": [
+        {
+            "cest": "48.001.00",
+            "ncm": "9403.20.00",
+            "Descricao": "Móveis de metal para uso doméstico (ex: estantes, mesas, cadeiras)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "48.002.00",
+            "ncm": "9403.30.00",
+            "Descricao": "Móveis de madeira para uso doméstico (ex: armários, cômodas, racks)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "48.003.00",
+            "ncm": "9401.61.00",
+            "Descricao": "Assentos estofados com estrutura de madeira (ex: sofás, poltronas)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "48.004.00",
+            "ncm": "9405.10.93",
+            "Descricao": "Abajures, luminárias decorativas e outros artigos de iluminação para interiores",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "48.005.00",
+            "ncm": "4814.20.00",
+            "Descricao": "Papel de parede e revestimentos decorativos semelhantes",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "PETS_E_ANIMAIS_DOMESTICOS": [
+        {
+            "cest": "49.001.00",
+            "ncm": "2309.10.00",
+            "Descricao": "Alimentos completos para cães e gatos (ração seca ou úmida)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "49.002.00",
+            "ncm": "2309.90.90",
+            "Descricao": "Petiscos, suplementos e alimentos não completos para animais de estimação",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "49.003.00",
+            "ncm": "3307.90.00",
+            "Descricao": "Produtos de higiene e perfumaria para uso veterinário (ex: shampoos, colônias, condicionadores)",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "49.004.00",
+            "ncm": "4201.00.00",
+            "Descricao": "Coleiras, guias, peitorais e acessórios de couro ou material sintético para pets",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "49.005.00",
+            "ncm": "3924.90.00",
+            "Descricao": "Comedouros, bebedouros, caixas de transporte e utensílios plásticos para animais domésticos",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "CONSTRUCAO_E_ACABAMENTO": [
+        {
+            "cest": "50.001.00",
+            "ncm": "2523.29.00",
+            "Descricao": "Cimento Portland e outros tipos de cimento hidráulico",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "50.002.00",
+            "ncm": "6810.11.00",
+            "Descricao": "Placas e ladrilhos de gesso, cimento ou concreto para revestimento",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "50.003.00",
+            "ncm": "6907.90.00",
+            "Descricao": "Revestimentos cerâmicos (pisos e azulejos)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "50.004.00",
+            "ncm": "3214.10.10",
+            "Descricao": "Mastiques, selantes e silicones para vedação e acabamento",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "50.005.00",
+            "ncm": "8302.10.00",
+            "Descricao": "Ferragens e guarnições de metal comum para portas, janelas e móveis",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "JARDINAGEM_E_AREAS_EXTERNAS": [
+        {
+            "cest": "51.001.00",
+            "ncm": "8201.10.00",
+            "Descricao": "Pás, enxadas e ferramentas manuais para jardinagem",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "51.002.00",
+            "ncm": "8201.30.00",
+            "Descricao": "Tesouras de poda, cortadores de galhos e ferramentas de corte vegetal",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "51.003.00",
+            "ncm": "8424.82.21",
+            "Descricao": "Regadores, pulverizadores e sistemas manuais de irrigação",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "51.004.00",
+            "ncm": "3926.90.90",
+            "Descricao": "Vasos plásticos, suportes e acessórios decorativos para jardinagem",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "51.005.00",
+            "ncm": "3105.20.00",
+            "Descricao": "Fertilizantes e adubos compostos para uso em jardins e hortas",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "LAZER_AR_LIVRE_E_CAMPING": [
+        {
+            "cest": "52.001.00",
+            "ncm": "6306.22.00",
+            "Descricao": "Barracas de camping e abrigos portáteis",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "52.002.00",
+            "ncm": "9401.79.00",
+            "Descricao": "Cadeiras dobráveis e móveis portáteis para uso externo",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "52.003.00",
+            "ncm": "7321.11.00",
+            "Descricao": "Fogareiros, grelhas e utensílios para preparo de alimentos ao ar livre",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "52.004.00",
+            "ncm": "9404.90.00",
+            "Descricao": "Colchões infláveis, sacos de dormir e isolantes térmicos",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        },
+        {
+            "cest": "52.005.00",
+            "ncm": "8513.10.10",
+            "Descricao": "Lanternas portáteis, lampiões e equipamentos de iluminação para camping",
+            "mva_original": 50,
+            "mva_ajustada_12": 65,
+            "mva_ajustada_4": 80
+        }
+    ],
+    "BRICOLAGEM_E_DIY": [
+        {
+            "cest": "53.001.00",
+            "ncm": "3214.10.10",
+            "Descricao": "Colas, adesivos e selantes para uso doméstico e artesanal",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "53.002.00",
+            "ncm": "8205.59.00",
+            "Descricao": "Ferramentas manuais diversas para bricolagem (ex: alicates, estiletes, chaves allen)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "53.003.00",
+            "ncm": "8467.29.99",
+            "Descricao": "Ferramentas elétricas portáteis para uso doméstico (ex: furadeiras, lixadeiras, parafusadeiras)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "53.004.00",
+            "ncm": "3926.90.90",
+            "Descricao": "Organizadores, caixas de ferramentas e acessórios plásticos para bricolagem",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "53.005.00",
+            "ncm": "8302.10.00",
+            "Descricao": "Ferragens e suportes metálicos para montagem de móveis e projetos DIY",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "SEGURANCA_PESSOAL_E_EMERGENCIA": [
+        {
+            "cest": "54.001.00",
+            "ncm": "9020.00.10",
+            "Descricao": "Máscaras de proteção respiratória (ex: PFF2, N95, reutilizáveis com filtro)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "54.002.00",
+            "ncm": "4015.19.00",
+            "Descricao": "Luvas de proteção (ex: látex, nitrila, PVC, para uso médico ou industrial)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "54.003.00",
+            "ncm": "6116.10.00",
+            "Descricao": "Protetores faciais, toucas, aventais e vestimentas de segurança descartáveis",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "54.004.00",
+            "ncm": "9020.00.90",
+            "Descricao": "Equipamentos de primeiros socorros e kits de emergência (ex: bandagens, talas, torniquetes)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "54.005.00",
+            "ncm": "8531.10.10",
+            "Descricao": "Alarmes sonoros e visuais para situações de emergência (ex: sirenes, luzes de evacuação)",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ],
+    "DIVERSOS_E_MISCELANEOS": [
+        {
+            "cest": "55.001.00",
+            "ncm": "9609.10.00",
+            "Descricao": "Lousas, quadros brancos e outros artigos para escrita ou desenho reutilizáveis",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "55.002.00",
+            "ncm": "9613.80.00",
+            "Descricao": "Isqueiros, acendedores e dispositivos semelhantes, exceto os elétricos recarregáveis",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "55.003.00",
+            "ncm": "9615.11.00",
+            "Descricao": "Pentes, escovas de cabelo e artigos semelhantes de uso pessoal",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "55.004.00",
+            "ncm": "9616.10.00",
+            "Descricao": "Bolsas térmicas, bolsas de água quente e similares",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        },
+        {
+            "cest": "55.005.00",
+            "ncm": "9602.00.00",
+            "Descricao": "Bonecos, manequins e modelos para vitrines ou uso promocional",
+            "mva_original": 45,
+            "mva_ajustada_12": 59.5,
+            "mva_ajustada_4": 74
+        }
+    ]
+}

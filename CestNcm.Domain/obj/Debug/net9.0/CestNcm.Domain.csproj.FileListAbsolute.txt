@@ -1,0 +1,11 @@
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\bin\Debug\net9.0\CestNcm.Domain.deps.json
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\bin\Debug\net9.0\CestNcm.Domain.dll
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\bin\Debug\net9.0\CestNcm.Domain.pdb
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.AssemblyInfoInputs.cache
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.AssemblyInfo.cs
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.dll
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\refint\CestNcm.Domain.dll
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.pdb
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\ref\CestNcm.Domain.dll
