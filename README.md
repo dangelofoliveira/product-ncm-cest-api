@@ -18,13 +18,15 @@ API REST em .NET 9 para consulta de produtos com códigos **NCM**, **CEST** e re
 
 ## 🗂️ Estrutura do projeto
 
-ProductNcmCestAPI/<br/>
-  ├── CestNcm.API/ → API REST com endpoints HTTP<br/>
-  ├── CestNcm.Domain/ → Entidades e regras de domínio<br/>
-  ├── CestNcm.Infrastructure/ → DbContext + persistência (PostgreSQL + EF Core)<br/>
-  ├── CestNcm.DataImporter/ → Console App para importar JSON<br/>
-    ├── dados_cest.json → Base de dados oficial<br/>
-  └── README.md → Você está aqui :)
+```
+ProductNcmCestAPI/
+├── CestNcm.API/              → API REST com endpoints HTTP
+├── CestNcm.Domain/           → Entidades e regras de domínio
+├── CestNcm.Infrastructure/   → DbContext + persistência (PostgreSQL + EF Core)
+├── CestNcm.DataImporter/     → Console App para importar JSON
+│   └── dados_cest.json       → Base de dados oficial
+└── README.md                 → Você está aqui :)
+```
   
 ---
 
