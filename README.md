@@ -37,7 +37,11 @@ Importa centenas de registros de forma automatizada com validação básica:
 ```bash
 dotnet run --project CestNcm.DataImporter
 ```
-✅ Lê o arquivo dados_cest.json 🛠️ Preenche os campos CEST, NCM, Descrição, e MVAs 🧼 Ignora automaticamente registros inválidos ou incompletos 📊 Exibe contagem final de inserções
+
+✅ Lê o arquivo dados_cest.json<br/>
+🛠️ Preenche os campos CEST, NCM, Descrição, e MVAs<br/>
+🧼 Ignora automaticamente registros inválidos ou incompletos<br/>
+📊 Exibe contagem final de inserções
 
 ---
 
