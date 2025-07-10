@@ -7,14 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.6" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CestNcm.Infrastructure\CestNcm.Infrastructure.csproj" />
     <ProjectReference Include="..\CestNcm.Domain\CestNcm.Domain.csproj" />
+    <ProjectReference Include="..\CestNcm.Infrastructure\CestNcm.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

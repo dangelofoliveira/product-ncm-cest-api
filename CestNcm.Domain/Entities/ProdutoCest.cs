@@ -4,10 +4,19 @@ namespace CestNcm.Domain.Entities;
 
 public class ProdutoCest
 {
+    [JsonPropertyName("id")]
     public int Id { get; set; }
+
+    [JsonPropertyName("secao")]
     public string Secao { get; set; } = null!;
+
+    [JsonPropertyName("cest")]
     public string Cest { get; set; } = null!;
+
+    [JsonPropertyName("ncm")]
     public string Ncm { get; set; } = null!;
+
+    [JsonPropertyName("descricao")]
     public string Descricao { get; set; } = null!;
 
     [JsonPropertyName("mva_original")]

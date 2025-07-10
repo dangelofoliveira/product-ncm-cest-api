@@ -51,9 +51,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "FluentValidation.AspNetCore": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[11.3.1, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -61,7 +61,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -197,6 +197,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[9.0.6, )"
             },

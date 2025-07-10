@@ -1,6 +1,6 @@
-@CestNcm.API_HostAddress = http://localhost:5146
+@CestNCM.API_HostAddress = http://localhost:5122
 
-GET {{CestNcm.API_HostAddress}}/weatherforecast/
+GET {{CestNCM.API_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

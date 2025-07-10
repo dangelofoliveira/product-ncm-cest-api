@@ -9,6 +9,7 @@ D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\CestNcm.In
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\CestNcm.Infrastructure.AssemblyInfoInputs.cache
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\CestNcm.Infrastructure.AssemblyInfo.cs
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\CestNcm.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\CestNcm.Infrastructure.sourcelink.json
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\CestNcm..8F750D55.Up2Date
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\CestNcm.Infrastructure.dll
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Infrastructure\obj\Debug\net9.0\refint\CestNcm.Infrastructure.dll

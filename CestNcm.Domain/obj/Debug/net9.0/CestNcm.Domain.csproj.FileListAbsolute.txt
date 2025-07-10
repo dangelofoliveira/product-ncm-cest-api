@@ -5,6 +5,7 @@ D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.Gen
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.AssemblyInfoInputs.cache
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.AssemblyInfo.cs
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.sourcelink.json
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.dll
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\refint\CestNcm.Domain.dll
 D:\PROJECTS\ProductNcmCestAPI\CestNcm.Domain\obj\Debug\net9.0\CestNcm.Domain.pdb
